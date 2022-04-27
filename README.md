@@ -1,6 +1,6 @@
 # Students of each Hogwarts house
 
-A little Hogwarts "Houses" fun. Pass it a valid Hogwart's house name and it will display all of the students (mentioned in the books) that belong to each house. Those that aren't mentioned to belong to any particular house are listed as 'unknown'.
+A little Hogwarts "Houses" fun. Pass it a valid Hogwart's house name and it will display all of the students (mentioned in the books) that belong to their particular house. Those that aren't cited belonging to any respective house are listed as 'unknown'.
 
 ## Usage
 
